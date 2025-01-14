@@ -1,2 +1,2 @@
 # proFuncional
-Códigos da disciplina de programação Funcional
+Code from the Functional Programming course.
